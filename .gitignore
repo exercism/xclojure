@@ -4,7 +4,7 @@
 tmp
 bin/configlet
 bin/configlet.exe
-x-common
+problem-specifications
 
 pom.xml
 pom.xml.asc
@@ -18,3 +18,6 @@ pom.xml.asc
 *.lein-plugins/
 *.lein-failures
 *.nrepl-port
+.calva
+.clj-kondo
+.lsp
